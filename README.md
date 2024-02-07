@@ -1,3 +1,19 @@
+# React ve Redux ile Netflix Klonlama
+Bu proje, React ve Redux kullanılarak oluşturulmuş basit bir Netflix benzeri uygulamayı içermektedir. 
+Proje, popüler filmleri görüntüleme, film detaylarını inceleme ve farklı film türlerine göre filtreleme gibi özellikleri içermektedir.
+
+# Proje Hakkında
+- Teknolojiler: React, Redux, Thunk, Axios, React Router, Bootstrap
+- API Kullanımı: The Movie Database (TMDb)
+- Veritabanı: JSON dosyası üzerinde basit bir yerel veritabanı (db.json)
+- Proje Mimarisi: Komponent tabanlı, sayfa yönlendirmesi için React Router kullanılarak geliştirilmiştir.
+
+# Proje Yapısı
+- components: Reusable React komponentleri
+- pages: Uygulamanın sayfalarını içerir
+- redux: Redux store, actions ve reducers
+- constants: Proje genelinde kullanılan sabitler
+
 # Kütüphaneler
 
 - react-router-dom
