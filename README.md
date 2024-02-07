@@ -32,5 +32,9 @@ Proje, popüler filmleri görüntüleme, film detaylarını inceleme ve farklı 
 
 - Resim İçin BaseURL: https://image.tmdb.org/t/p/original
 
+  # Ekran Görntüsü
+  ![Ekran görüntüsü 2024-02-07 200224](https://github.com/eliftugull/thunk-netflix-clone/assets/140808923/afb046c8-3728-4f06-9a27-5e209c5e53d2)
+
+
   # Link
   http://localhost:5174/
