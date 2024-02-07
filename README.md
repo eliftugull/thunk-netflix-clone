@@ -1,5 +1,4 @@
 
-https://github.com/eliftugull/thunk-netflix-clone/assets/140808923/783bdde7-6c83-4e66-9621-751dcf1b4af6
 # React ve Redux ile Netflix Klonlama
 Bu proje, React ve Redux kullanılarak oluşturulmuş basit bir Netflix benzeri uygulamayı içermektedir. 
 Proje, popüler filmleri görüntüleme, film detaylarını inceleme ve farklı film türlerine göre filtreleme gibi özellikleri içermektedir.
