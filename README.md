@@ -40,6 +40,9 @@ Proje, popüler filmleri görüntüleme, film detaylarını inceleme ve farklı 
   # Link
   http://localhost:5174/
 
+
+  
+
   
 
 
