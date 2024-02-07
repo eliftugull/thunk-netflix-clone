@@ -31,3 +31,6 @@ Proje, popüler filmleri görüntüleme, film detaylarını inceleme ve farklı 
 - LOGO: https://image.tmdb.org/t/p/original/wwemzKWzjKYJFfCeiB57q3r4Bcm.svg
 
 - Resim İçin BaseURL: https://image.tmdb.org/t/p/original
+
+  # Link
+  http://localhost:5174/
